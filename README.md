@@ -6,14 +6,21 @@ Tundra Exploration Forum Thread: https://forum.kerbalspaceprogram.com/index.php?
 
 # Features
 
-- Realistic part sizes and fuel types/capacities for Gojira (Starship), Ghidorah (Falcon 9), Bagorah (Falcon 9 v1.0), Mothra (Falcon 1), Gigan (Dragon 1) and Rodan (Dragon 2) and Strongbacks
+- Realistic part sizes, fuel types/capacities and (mostly) masses for Gojira (Starship), Ghidorah (Falcon 9/FH), Bagorah (Falcon 9 v1.0), Mothra (Falcon 1), Gigan (Dragon 1), Rodan (Dragon 2) and Strongbacks
 - Realistic names for all parts
 - Falcon 9 versions of the RCS thrusters (using Nitrogen) and Landing Legs from KRE
+- SpaceX logos for all Falcon rockets
 - Adjustments for all SmokeScreen plumes from Tundra Exploration for the new part sizes.
+
+# Installation
+
+- Install Tundra Exploration and all of its dependecies
+- Copy the contents of GameData into the GameData folder of your KSP RO install
+- Copy the contents of Extras/SpaceX Decals/GameData into the GameData folder of your KSP RO install (and override files if asked)
 
 # TODOs
 
-- Realistic descriptions
-- More realistic mass-values for Dragon 1 and 2
-- Add sources
+- Useful descriptions
+- Better mass-values for Dragon 1 and 2
 - Realistic maximum temperatures
+- Add sources
