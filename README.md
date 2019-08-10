@@ -16,7 +16,7 @@ Tundra Exploration Forum Thread: https://forum.kerbalspaceprogram.com/index.php?
 
 - Install Tundra Exploration and all of its dependecies
 - Copy the contents of GameData into the GameData folder of your KSP RO install
-- Copy the contents of Extras/SpaceX Decals/GameData into the GameData folder of your KSP RO install (and override files if asked)
+- Copy the contents of Extras/SpaceXDecals/GameData into the GameData folder of your KSP RO install (and override files if asked)
 
 # TODOs
 
